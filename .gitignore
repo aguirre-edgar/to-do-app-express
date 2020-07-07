@@ -1,0 +1,61 @@
+#dependencies
+node_modules
+/.pnp
+/.pnp.js
+
+#testing 
+
+#production
+
+#misc
+
+## webstorm ##
+
+#User-specific
+
+#generated-files
+
+#??
+
+#Gradle
+
+#Gradle & Maven with auto-import
+
+#CMake
+
+#Mongo Explorer Plugin
+.idea/**/mongoSettings.xml
+
+#FIle-based project format
+
+#IntelliJ
+
+#mpeltonen/sbt-idea plugin
+
+#JIRA plugin
+
+#Cursive Closure Plugin
+
+#Crashlytics PLugin
+
+#Editor-based Rest Client
+
+#Andriod studio 3.1+ serialized cache file 
+
+#WebStorm Patch
+
+#.*iml
+#modules.xml
+#.idea/misc.xml
+#*.ipr
+
+#Sonarlint plugin
+
+#Markdown Navigator plugin
+
+#Cache file creation bug 
+
+
+# OR I COULD HAVE JUST COPIED THIS PAGE 
+# THAT ALREADY HAS IT GENERATED 
+# https://www.toptal.com/developers/gitignore/api/webstorm
