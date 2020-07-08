@@ -1,20 +1,26 @@
 {
-    "name": "to-do-app-express",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo np\"Error: no test specified\" && exit 1"
-    },
-    // install jest test runner
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "body-parser": "^1.19.0",
-      "cors": "^2.8.5",
-      "dotenv": "^8.0.0",
-      "express": "^4.16.4",
-      "mongoose": "^5.5.7"
-    }
+  "name": "to-do-app-express",
+  "version": "1.0.0",
+  "description": "\"# to-do-app-express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguirre-edgar/to-do-app-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguirre-edgar/to-do-app-express/issues"
+  },
+  "homepage": "https://github.com/aguirre-edgar/to-do-app-express#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
   }
+}
+
+//  "test": "jest --coverage" tells you what file your tests are running in 
+// coverage added so much junk
