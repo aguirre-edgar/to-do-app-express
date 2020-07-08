@@ -4,7 +4,7 @@
   "description": "\"# to-do-app-express\"",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch --coverage"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -23,3 +23,4 @@
 }
 
 //  "test": "jest --coverage" tells you what file your tests are running in 
+// coverage added so much junk
