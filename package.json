@@ -24,3 +24,7 @@
 
 //  "test": "jest --coverage" tells you what file your tests are running in 
 // coverage added so much junk
+
+//install cross-env
+//install nodemon restarts server every time there is a change 
+//install superjest
